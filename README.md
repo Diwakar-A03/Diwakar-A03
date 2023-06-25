@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Diwakar-A03
+- 👀 I’m interested in freelancning or collaborative coding on languages like python and java.
+- 🌱 I’m currently learning python language in order to start my journey in AI/ML.
+- 💞️ I’m looking to collaborate on Simple Python code or Web Devlopment projects.
